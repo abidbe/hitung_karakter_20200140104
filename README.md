@@ -1,4 +1,4 @@
-# flutter_calculator
+# hitung_karakter
 
 A new Flutter project.
 
